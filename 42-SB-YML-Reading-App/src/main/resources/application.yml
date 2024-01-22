@@ -1,0 +1,13 @@
+server:
+ port:9090
+ 
+spring:
+ application:
+  name: sb-yml-app
+
+rajanit:
+ messages:
+  welcomeMsg: Welcome to RajanIT
+  greetMsg: Good morning!
+  wishMsg: All the best!!
+# comment line
